@@ -1111,4 +1111,109 @@
         "DISTRICT_CODE": "14",
         "DISTRICT": "ມ. ຫີນເຫີບ"
     },
+
+
+
+
+
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "11000",
+        "POST_OFFICE": "ປນ. ແຂວງບໍລິຄຳໄຊ",
+        "PROVICE_CODE": "11",
+        "PROVICE": "ແຂວງບໍລິຄຳໄຊ",
+        "DISTRICT_CODE": "01",
+        "DISTRICT": "ມ. ປາກຊັນ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "11010",
+        "POST_OFFICE": "ປນ. ມ ບໍລິຄັນ",
+        "PROVICE_CODE": "11",
+        "PROVICE": "ແຂວງບໍລິຄຳໄຊ",
+        "DISTRICT_CODE": "02",
+        "DISTRICT": "ມ. ບໍລິຄັນ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "11011",
+        "POST_OFFICE": "ປນ. ຜາເມືອງ",
+        "PROVICE_CODE": "11",
+        "PROVICE": "ແຂວງບໍລິຄຳໄຊ",
+        "DISTRICT_CODE": "03",
+        "DISTRICT": "ມ. ຜາເມືອງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "11020",
+        "POST_OFFICE": "ປນ. ມ ປາກກະດິງ",
+        "PROVICE_CODE": "11",
+        "PROVICE": "ແຂວງບໍລິຄຳໄຊ",
+        "DISTRICT_CODE": "03",
+        "DISTRICT": "ມ. ປາກກະດິງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "11030",
+        "POST_OFFICE": "ປນ. ທ່າພະບາດ",
+        "PROVICE_CODE": "11",
+        "PROVICE": "ແຂວງບໍລິຄຳໄຊ",
+        "DISTRICT_CODE": "04",
+        "DISTRICT": "ມ. ທ່າພະບາດ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "11040",
+        "POST_OFFICE": "ປນ. ຄຳເກີນ(Km20)",
+        "PROVICE_CODE": "11",
+        "PROVICE": "ແຂວງບໍລິຄຳໄຊ",
+        "DISTRICT_CODE": "05",
+        "DISTRICT": "ມ. ຄຳເກີນ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "11050",
+        "POST_OFFICE": "ມ. ວຽງທອງ",
+        "PROVICE_CODE": "11",
+        "PROVICE": "ແຂວງບໍລິຄຳໄຊ",
+        "DISTRICT_CODE": "06",
+        "DISTRICT": "ມ. ວຽງທອງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "11060",
+        "POST_OFFICE": "ປນ. ທົ່ງນາມີ",
+        "PROVICE_CODE": "11",
+        "PROVICE": "ແຂວງບໍລິຄຳໄຊ",
+        "DISTRICT_CODE": "06",
+        "DISTRICT": "ມ. ວຽງທອງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "11070",
+        "POST_OFFICE": "ປນ. ຜາເມືອງ",
+        "PROVICE_CODE": "11",
+        "PROVICE": "ແຂວງບໍລິຄຳໄຊ",
+        "DISTRICT_CODE": "07",
+        "DISTRICT": "ມ. ຜາເມືອງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "11080",
+        "POST_OFFICE": "ມ. ໄຊຈຳພອນ",
+        "PROVICE_CODE": "11",
+        "PROVICE": "ແຂວງບໍລິຄຳໄຊ",
+        "DISTRICT_CODE": "08",
+        "DISTRICT": "ມ. ໄຊຈຳພອນ"
+    },
 ]
