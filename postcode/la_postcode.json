@@ -923,4 +923,192 @@
         "DISTRICT_CODE": "17.00/2012",
         "DISTRICT": "ມ. ແປກ"
     },
+
+
+
+
+
+
+
+
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "10000",
+        "POST_OFFICE": "ປນ. ແຂວງວຽງຈັນ",
+        "PROVICE_CODE": "10",
+        "PROVICE": "ແຂວງວຽງຈັນ",
+        "DISTRICT_CODE": "01",
+        "DISTRICT": "ມ. ໂພນໂຮງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "10010",
+        "POST_OFFICE": "ປນ. ບ້ານເກີນ",
+        "PROVICE_CODE": "10",
+        "PROVICE": "ແຂວງວຽງຈັນ",
+        "DISTRICT_CODE": "02",
+        "DISTRICT": "ມ. ທຸລະຄົມ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "10020",
+        "POST_OFFICE": "ປນ. ທ່າລາດ",
+        "PROVICE_CODE": "10",
+        "PROVICE": "ແຂວງວຽງຈັນ",
+        "DISTRICT_CODE": "03",
+        "DISTRICT": "ມ. ແກ້ວອຸດົມ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "10030",
+        "POST_OFFICE": "ປນ. ວັງວຽງ",
+        "PROVICE_CODE": "10",
+        "PROVICE": "ແຂວງວຽງຈັນ",
+        "DISTRICT_CODE": "04",
+        "DISTRICT": "ມ. ວັງວຽງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "10040",
+        "POST_OFFICE": "ປນ. ໄຊສົມບູນ/18000",
+        "PROVICE_CODE": "10",
+        "PROVICE": "ແຂວງວຽງຈັນ",
+        "DISTRICT_CODE": "05",
+        "DISTRICT": "ມ. ໄຊສົມບູນ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "10050",
+        "POST_OFFICE": "ປນ. ມ ເຟືອງ",
+        "PROVICE_CODE": "10",
+        "PROVICE": "ແຂວງວຽງຈັນ",
+        "DISTRICT_CODE": "06",
+        "DISTRICT": "ມ. ເຟືອງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "10060",
+        "POST_OFFICE": "ປນ. ຊະນະຄາມ",
+        "PROVICE_CODE": "10",
+        "PROVICE": "ແຂວງວຽງຈັນ",
+        "DISTRICT_CODE": "07",
+        "DISTRICT": "ມ. ຊະນະຄາມ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "10070",
+        "POST_OFFICE": "ປນ. ກາສີ",
+        "PROVICE_CODE": "10",
+        "PROVICE": "ແຂວງວຽງຈັນ",
+        "DISTRICT_CODE": "08",
+        "DISTRICT": "ມ. ກາສີ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "10080",
+        "POST_OFFICE": "ປນ. ຜາລະແວກ",
+        "PROVICE_CODE": "10",
+        "PROVICE": "ແຂວງວຽງຈັນ",
+        "DISTRICT_CODE": "09",
+        "DISTRICT": "ມ. ຮົ່ມເກົ່າ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "10100",
+        "POST_OFFICE": "ປນ. Km52",
+        "PROVICE_CODE": "10",
+        "PROVICE": "ແຂວງວຽງຈັນ",
+        "DISTRICT_CODE": "09",
+        "DISTRICT": "ມ. ຮົ່ມເກົ່າ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "10110",
+        "POST_OFFICE": "ປນ. ຮ/ຮ ເຕັກນິກ",
+        "PROVICE_CODE": "10",
+        "PROVICE": "ແຂວງວຽງຈັນ",
+        "DISTRICT_CODE": "10",
+        "DISTRICT": "ມ. ວຽງຄຳ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "10120",
+        "POST_OFFICE": "ປນ. ໂນນໄຮ",
+        "PROVICE_CODE": "10",
+        "PROVICE": "ແຂວງວຽງຈັນ",
+        "DISTRICT_CODE": "11",
+        "DISTRICT": "ມ. ຫມື່ນ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "10130",
+        "POST_OFFICE": "ປນ. ລ້ອງຊານ",
+        "PROVICE_CODE": "10",
+        "PROVICE": "ແຂວງວຽງຈັນ",
+        "DISTRICT_CODE": "12",
+        "DISTRICT": "ມ. ຮົ່ມໄຫມ່"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "10140",
+        "POST_OFFICE": "ປນ. 516",
+        "PROVICE_CODE": "12",
+        "PROVICE": "ແຂວງວຽງຈັນ",
+        "DISTRICT_CODE": "02",
+        "DISTRICT": "ມ. ຮົ່ມໄຫມ່"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "10150",
+        "POST_OFFICE": "ປນ. ມ ແມດ",
+        "PROVICE_CODE": "10",
+        "PROVICE": "ແຂວງວຽງຈັນ",
+        "DISTRICT_CODE": "13",
+        "DISTRICT": "ມ. ແມດ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "10160",
+        "POST_OFFICE": "ປນ. ຫີນຫົວເສືອ",
+        "PROVICE_CODE": "10",
+        "PROVICE": "ແຂວງວຽງຈັນ",
+        "DISTRICT_CODE": "14",
+        "DISTRICT": "ມ. ພຸນ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "10170",
+        "POST_OFFICE": "ປນ. ນ້ຳຍອນ",
+        "PROVICE_CODE": "10",
+        "PROVICE": "ແຂວງວຽງຈັນ",
+        "DISTRICT_CODE": "14",
+        "DISTRICT": "ມ. ພຸນ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "10180",
+        "POST_OFFICE": "ມ. ຫີນເຫີບ",
+        "PROVICE_CODE": "10",
+        "PROVICE": "ແຂວງວຽງຈັນ",
+        "DISTRICT_CODE": "14",
+        "DISTRICT": "ມ. ຫີນເຫີບ"
+    },
 ]
