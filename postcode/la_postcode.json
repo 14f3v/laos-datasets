@@ -664,4 +664,129 @@
         "DISTRICT_CODE": "08",
         "DISTRICT": "ມ. ສົບເບົາ"
     },
+
+
+
+
+
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "08000",
+        "POST_OFFICE": "ປນ. ແຂວງໄຊຍະບູລີ",
+        "PROVICE_CODE": "08",
+        "PROVICE": "ແຂວງໄຊຍະບູລີ",
+        "DISTRICT_CODE": "01",
+        "DISTRICT": "ມ. ແຂວງໄຊຍະບູລີ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "08010",
+        "POST_OFFICE": "ປນ. ມ ພຽງ",
+        "PROVICE_CODE": "08",
+        "PROVICE": "ແຂວງໄຊຍະບູລີ",
+        "DISTRICT_CODE": "02",
+        "DISTRICT": "ມ. ພຽງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "08011",
+        "POST_OFFICE": "ປນ. ນ້ຳປຸຍ",
+        "PROVICE_CODE": "08",
+        "PROVICE": "ແຂວງໄຊຍະບູລີ",
+        "DISTRICT_CODE": "02",
+        "DISTRICT": "ມ. ພຽງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "08020",
+        "POST_OFFICE": "ປນ. ມ ປາກລາຍ",
+        "PROVICE_CODE": "08",
+        "PROVICE": "ແຂວງໄຊຍະບູລີ",
+        "DISTRICT_CODE": "03",
+        "DISTRICT": "ມ. ປາກລາຍ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "08030",
+        "POST_OFFICE": "ປນ. ມ ແກ່ນທ້າວ",
+        "PROVICE_CODE": "08",
+        "PROVICE": "ແຂວງໄຊຍະບູລີ",
+        "DISTRICT_CODE": "04",
+        "DISTRICT": "ມ. ແກ່ນທ້າວ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "08040",
+        "POST_OFFICE": "ປນ. ບໍ່ແຕນ",
+        "PROVICE_CODE": "08",
+        "PROVICE": "ແຂວງໄຊຍະບູລີ",
+        "DISTRICT_CODE": "05",
+        "DISTRICT": "ມ. ບໍ່ແຕນ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "08050",
+        "POST_OFFICE": "ປນ. ມ ຫົງສາ",
+        "PROVICE_CODE": "08",
+        "PROVICE": "ແຂວງໄຊຍະບູລີ",
+        "DISTRICT_CODE": "06",
+        "DISTRICT": "ມ. ຫົງສາ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "08060",
+        "POST_OFFICE": "ປນ. ມ ຊຽງຮ່ອນ",
+        "PROVICE_CODE": "08",
+        "PROVICE": "ແຂວງໄຊຍະບູລີ",
+        "DISTRICT_CODE": "06",
+        "DISTRICT": "ມ. ຫົງສາ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "08070",
+        "POST_OFFICE": "ມ. ເງິນ",
+        "PROVICE_CODE": "08",
+        "PROVICE": "ແຂວງໄຊຍະບູລີ",
+        "DISTRICT_CODE": "07",
+        "DISTRICT": "ມ. ເງິນ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "08080",
+        "POST_OFFICE": "ມ. ຄອບ",
+        "PROVICE_CODE": "08",
+        "PROVICE": "ແຂວງໄຊຍະບູລີ",
+        "DISTRICT_CODE": "08",
+        "DISTRICT": "ມ. ຄອບ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "08090",
+        "POST_OFFICE": "ມ. ທົ່ງມີໄຊ",
+        "PROVICE_CODE": "08",
+        "PROVICE": "ແຂວງໄຊຍະບູລີ",
+        "DISTRICT_CODE": "09",
+        "DISTRICT": "ມ. ທົ່ງມີໄຊ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "08100",
+        "POST_OFFICE": "ປນ. ມ ພຽງໃຫມ່(ນ້ຳປຸນ)",
+        "PROVICE_CODE": "08",
+        "PROVICE": "ແຂວງໄຊຍະບູລີ",
+        "DISTRICT_CODE": "09",
+        "DISTRICT": "ມ. ທົ່ງມີໄຊ"
+    },
 ]
