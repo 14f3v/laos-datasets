@@ -1486,4 +1486,89 @@
         "DISTRICT_CODE": "15",
         "DISTRICT": "ມ. ທ່າພະລານໄຊ"
     },
+
+
+
+
+
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "14000",
+        "POST_OFFICE": "ປນ. ແຂວງສາລະວັນ",
+        "PROVICE_CODE": "14",
+        "PROVICE": "ແຂວງສາລະວັນ",
+        "DISTRICT_CODE": "01",
+        "DISTRICT": "ມ. ສາລະວັນ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "14010",
+        "POST_OFFICE": "ມ. ຕາໂອ້ຍ",
+        "PROVICE_CODE": "14",
+        "PROVICE": "ແຂວງສາລະວັນ",
+        "DISTRICT_CODE": "02",
+        "DISTRICT": "ມ. ຕາໂອ້ຍ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "14020",
+        "POST_OFFICE": "ມ. ຕູ້ມລາຍ",
+        "PROVICE_CODE": "14",
+        "PROVICE": "ແຂວງສາລະວັນ",
+        "DISTRICT_CODE": "03",
+        "DISTRICT": "ມ. ຕູ້ມລາຍ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "14030",
+        "POST_OFFICE": "ປນ. ສະມ້ວຍ",
+        "PROVICE_CODE": "14",
+        "PROVICE": "ແຂວງສາລະວັນ",
+        "DISTRICT_CODE": "04",
+        "DISTRICT": "ມ. ສະມ້ວຍ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "14040",
+        "POST_OFFICE": "ປນ. ວາປີ",
+        "PROVICE_CODE": "14",
+        "PROVICE": "ແຂວງສາລະວັນ",
+        "DISTRICT_CODE": "05",
+        "DISTRICT": "ມ. ວາປີ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "14050",
+        "POST_OFFICE": "ປນ. ໂຄງເຊໂດນ",
+        "PROVICE_CODE": "14",
+        "PROVICE": "ແຂວງສາລະວັນ",
+        "DISTRICT_CODE": "06",
+        "DISTRICT": "ມ. ໂຄງເຊໂດນ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "14060",
+        "POST_OFFICE": "ປນ. ເລົາງາມ",
+        "PROVICE_CODE": "14",
+        "PROVICE": "ແຂວງສາລະວັນ",
+        "DISTRICT_CODE": "07",
+        "DISTRICT": "ມ. ເລົາງາມ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "14070",
+        "POST_OFFICE": "ປນ. ນະຄອນເພັງ",
+        "PROVICE_CODE": "14",
+        "PROVICE": "ແຂວງສາລະວັນ",
+        "DISTRICT_CODE": "08",
+        "DISTRICT": "ມ. ນະຄອນເພັງ"
+    },
 ]
