@@ -1571,4 +1571,50 @@
         "DISTRICT_CODE": "08",
         "DISTRICT": "ມ. ນະຄອນເພັງ"
     },
+
+
+
+
+
+
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "15000",
+        "POST_OFFICE": "ປນ. ເຊກອງ",
+        "PROVICE_CODE": "15",
+        "PROVICE": "ແຂວງເຊກອງ",
+        "DISTRICT_CODE": "01",
+        "DISTRICT": "ມ. ລະມານ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "15010",
+        "POST_OFFICE": "ປນ. ທ່າແຕງ",
+        "PROVICE_CODE": "15",
+        "PROVICE": "ແຂວງເຊກອງ",
+        "DISTRICT_CODE": "02",
+        "DISTRICT": "ມ. ທ່າແຕງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "15020",
+        "POST_OFFICE": "ມ. ກະລຶມ",
+        "PROVICE_CODE": "15",
+        "PROVICE": "ແຂວງເຊກອງ",
+        "DISTRICT_CODE": "03",
+        "DISTRICT": "ມ. ກະລຶມ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "15030",
+        "POST_OFFICE": "ມ. ດັກຈຶງ",
+        "PROVICE_CODE": "15",
+        "PROVICE": "ແຂວງເຊກອງ",
+        "DISTRICT_CODE": "04",
+        "DISTRICT": "ມ. ດັກຈຶງ"
+    },
 ]
