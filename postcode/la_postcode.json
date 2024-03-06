@@ -229,4 +229,65 @@
         "DISTRICT_CODE": "07",
         "DISTRICT": "ມ. ຍອດອຸ"
     },
+
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "3000",
+        "POST_OFFICE": "ປນ. ແຂວງຫລວງນ້ຳທາ",
+        "PROVICE_CODE": "03",
+        "PROVICE": "ແຂວງຫລວງນ້ຳທາ",
+        "DISTRICT_CODE": "01",
+        "DISTRICT": "ມ. ນ້ຳທາ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "3010",
+        "POST_OFFICE": "ປນ. ສິງ",
+        "PROVICE_CODE": "03",
+        "PROVICE": "ແຂວງຫລວງນ້ຳທາ",
+        "DISTRICT_CODE": "02",
+        "DISTRICT": "ມ. ສິງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "3020",
+        "POST_OFFICE": "ມ. ນາແລ",
+        "PROVICE_CODE": "03",
+        "PROVICE": "ແຂວງຫລວງນ້ຳທາ",
+        "DISTRICT_CODE": "03",
+        "DISTRICT": "ມ. ນາແລ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "3030",
+        "POST_OFFICE": "ມ. ວຽງພູຄູນ",
+        "PROVICE_CODE": "03",
+        "PROVICE": "ແຂວງຫລວງນ້ຳທາ",
+        "DISTRICT_CODE": "04",
+        "DISTRICT": "ມ. ນາແລ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "3040",
+        "POST_OFFICE": "ມ. ລອງ",
+        "PROVICE_CODE": "03",
+        "PROVICE": "ແຂວງຫລວງນ້ຳທາ",
+        "DISTRICT_CODE": "05",
+        "DISTRICT": "ມ. ລອງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "3050",
+        "POST_OFFICE": "ມ. ບໍ່ເຕັນ",
+        "PROVICE_CODE": "03",
+        "PROVICE": "ແຂວງຫລວງນ້ຳທາ",
+        "DISTRICT_CODE": "05",
+        "DISTRICT": "ມ. ລອງ"
+    },
 ]
