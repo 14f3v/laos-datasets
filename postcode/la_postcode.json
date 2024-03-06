@@ -1216,4 +1216,99 @@
         "DISTRICT_CODE": "08",
         "DISTRICT": "ມ. ໄຊຈຳພອນ"
     },
+
+
+
+
+
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "12000",
+        "POST_OFFICE": "ປນ. ແຂວງຄຳມ່ວນ",
+        "PROVICE_CODE": "12",
+        "PROVICE": "ແຂວງຄຳມ່ວນ",
+        "DISTRICT_CODE": "01",
+        "DISTRICT": "ມ. ທ່າແຂກ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "12010",
+        "POST_OFFICE": "ມ. ມະຫາໄຊ",
+        "PROVICE_CODE": "12",
+        "PROVICE": "ແຂວງຄຳມ່ວນ",
+        "DISTRICT_CODE": "02",
+        "DISTRICT": "ມ. ມະຫາໄຊ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "12020",
+        "POST_OFFICE": "ປນ. ມ ຫນອງບົກ",
+        "PROVICE_CODE": "12",
+        "PROVICE": "ແຂວງຄຳມ່ວນ",
+        "DISTRICT_CODE": "03",
+        "DISTRICT": "ມ. ຫນອງບົກ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "12030",
+        "POST_OFFICE": "ປນ. ມ ຫົນບູນ",
+        "PROVICE_CODE": "12",
+        "PROVICE": "ແຂວງຄຳມ່ວນ",
+        "DISTRICT_CODE": "04",
+        "DISTRICT": "ມ. ຫົນບູນ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "12050",
+        "POST_OFFICE": "ປນ. ມ ຍົມມະລາດ",
+        "PROVICE_CODE": "12",
+        "PROVICE": "ແຂວງຄຳມ່ວນ",
+        "DISTRICT_CODE": "05",
+        "DISTRICT": "ມ. ຍົມມະລາດ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "12060",
+        "POST_OFFICE": "ມ. ບົວລະພາ",
+        "PROVICE_CODE": "12",
+        "PROVICE": "ແຂວງຄຳມ່ວນ",
+        "DISTRICT_CODE": "06",
+        "DISTRICT": "ມ. ບົວລະພາ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "12070",
+        "POST_OFFICE": "ມ. ເຊບັ້ງໄຟ",
+        "PROVICE_CODE": "12",
+        "PROVICE": "ແຂວງຄຳມ່ວນ",
+        "DISTRICT_CODE": "07",
+        "DISTRICT": "ມ. ເຊບັ້ງໄຟ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "12080",
+        "POST_OFFICE": "ບ. ນາກາຍ",
+        "PROVICE_CODE": "12",
+        "PROVICE": "ແຂວງຄຳມ່ວນ",
+        "DISTRICT_CODE": "08",
+        "DISTRICT": "ມ. ນາກາຍ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "12090",
+        "POST_OFFICE": "ມ. ໄຊບົວທອງ",
+        "PROVICE_CODE": "12",
+        "PROVICE": "ແຂວງຄຳມ່ວນ",
+        "DISTRICT_CODE": "09",
+        "DISTRICT": "ມ. ໄຊບົວທອງ"
+    },
 ]
