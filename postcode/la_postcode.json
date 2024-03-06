@@ -1,0 +1,162 @@
+[
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "01000",
+        "POST_OFFICE": "ປນ. ກາງ",
+        "PROVICE_CODE": "01",
+        "PROVICE": "ນະຄອນຫລວງວຽງຈັນ",
+        "DISTRICT_CODE": "01",
+        "DISTRICT": "ມ. ຈັນທະບູລີ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "01010",
+        "POST_OFFICE": "ປນ. ສີໄຄ",
+        "PROVICE_CODE": "01",
+        "PROVICE": "ນະຄອນຫລວງວຽງຈັນ",
+        "DISTRICT_CODE": "02",
+        "DISTRICT": "ມ. ສີໂຄດຕະບອງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "01020",
+        "POST_OFFICE": "ປນ. ສະຫນາມບິນວັດໄຕ",
+        "PROVICE_CODE": "01",
+        "PROVICE": "ນະຄອນຫລວງວຽງຈັນ",
+        "DISTRICT_CODE": "02",
+        "DISTRICT": "ມ. ສີໂຄດຕະບອງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "01030",
+        "POST_OFFICE": "ປນ. ຈີ່ນາຍໂມ້",
+        "PROVICE_CODE": "01",
+        "PROVICE": "ນະຄອນຫລວງວຽງຈັນ",
+        "DISTRICT_CODE": "03",
+        "DISTRICT": "ມ. ສີສັດຕະນາກ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "01070",
+        "POST_OFFICE": "ປນ. ທ່າງ່ອນ",
+        "PROVICE_CODE": "01",
+        "PROVICE": "ນະຄອນຫລວງວຽງຈັນ",
+        "DISTRICT_CODE": "04",
+        "DISTRICT": "ມ. ໄຊທານີ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "01080",
+        "POST_OFFICE": "ປນ. ດົງໂດກ",
+        "PROVICE_CODE": "01",
+        "PROVICE": "ນະຄອນຫລວງວຽງຈັນ",
+        "DISTRICT_CODE": "04",
+        "DISTRICT": "ມ. ໄຊທານີ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "01110",
+        "POST_OFFICE": "ປນ. ທ່າເດື່ອ",
+        "PROVICE_CODE": "01",
+        "PROVICE": "ນະຄອນຫລວງວຽງຈັນ",
+        "DISTRICT_CODE": "06",
+        "DISTRICT": "ມ. ຫາດຊາຍຟອງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "01120",
+        "POST_OFFICE": "ປນ. ບ້ານຫ້ອມ",
+        "PROVICE_CODE": "01",
+        "PROVICE": "ນະຄອນຫລວງວຽງຈັນ",
+        "DISTRICT_CODE": "06",
+        "DISTRICT": "ມ. ຫາດຊາຍຟອງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "01140",
+        "POST_OFFICE": "ປນ. ນາຊາຍທອງ",
+        "PROVICE_CODE": "01",
+        "PROVICE": "ນະຄອນຫລວງວຽງຈັນ",
+        "DISTRICT_CODE": "07",
+        "DISTRICT": "ມ. ນາຊາຍທອງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "01160",
+        "POST_OFFICE": "ປນ. ທາດຫລວງ",
+        "PROVICE_CODE": "01",
+        "PROVICE": "ນະຄອນຫລວງວຽງຈັນ",
+        "DISTRICT_CODE": "05",
+        "DISTRICT": "ມ. ໄຊເສດຖາ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "01170",
+        "POST_OFFICE": "ປນ. ດອນຫນູນ",
+        "PROVICE_CODE": "01",
+        "PROVICE": "ນະຄອນຫລວງວຽງຈັນ",
+        "DISTRICT_CODE": "05",
+        "DISTRICT": "ມ. ໄຊເສດຖາ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "01180",
+        "POST_OFFICE": "ປນ. ທ່ານາແລ້ງ",
+        "PROVICE_CODE": "01",
+        "PROVICE": "ນະຄອນຫລວງວຽງຈັນ",
+        "DISTRICT_CODE": "05",
+        "DISTRICT": "ມ. ໄຊເສດຖາ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "01190",
+        "POST_OFFICE": "ປນ. ສັງທອງ",
+        "PROVICE_CODE": "01",
+        "PROVICE": "ນະຄອນຫລວງວຽງຈັນ",
+        "DISTRICT_CODE": "08",
+        "DISTRICT": "ມ. ສັງທອງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "01200",
+        "POST_OFFICE": "ປນ. ປາກງື່ມ",
+        "PROVICE_CODE": "01",
+        "PROVICE": "ນະຄອນຫລວງວຽງຈັນ",
+        "DISTRICT_CODE": "09",
+        "DISTRICT": "ມ. ປາກງື່ມ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "01210",
+        "POST_OFFICE": "ປນ. ຊ້າງຄູ້(Km9)",
+        "PROVICE_CODE": "01",
+        "PROVICE": "ນະຄອນຫລວງວຽງຈັນ",
+        "DISTRICT_CODE": "09",
+        "DISTRICT": "ມ. ປາກງື່ມ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "01220",
+        "POST_OFFICE": "ປນ. ກົງຄຳຊ້າງ",
+        "PROVICE_CODE": "01",
+        "PROVICE": "ນະຄອນຫລວງວຽງຈັນ",
+        "DISTRICT_CODE": "09",
+        "DISTRICT": "ມ. ປາກງື່ມ"
+    }
+]
