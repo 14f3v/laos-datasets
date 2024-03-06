@@ -1617,4 +1617,111 @@
         "DISTRICT_CODE": "04",
         "DISTRICT": "ມ. ດັກຈຶງ"
     },
+
+
+
+
+
+
+
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "16000",
+        "POST_OFFICE": "ປນ. ແຂວງຈຳປາສັກ",
+        "PROVICE_CODE": "16",
+        "PROVICE": "ແຂວງຈຳປາສັກ",
+        "DISTRICT_CODE": "01",
+        "DISTRICT": "ມ. ປາກເຊ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "16010",
+        "POST_OFFICE": "ປນ. ຈຳປາສັກ",
+        "PROVICE_CODE": "16",
+        "PROVICE": "ແຂວງຈຳປາສັກ",
+        "DISTRICT_CODE": "02",
+        "DISTRICT": "ມ. ຈຳປາສັກ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "16020",
+        "POST_OFFICE": "ປນ. ໂຂງ",
+        "PROVICE_CODE": "16",
+        "PROVICE": "ແຂວງຈຳປາສັກ",
+        "DISTRICT_CODE": "03",
+        "DISTRICT": "ມ. ໂຂງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "16030",
+        "POST_OFFICE": "ປນ. ມຸນລະປະໂພກ",
+        "PROVICE_CODE": "16",
+        "PROVICE": "ແຂວງຈຳປາສັກ",
+        "DISTRICT_CODE": "04",
+        "DISTRICT": "ມ. ມຸນລະປະໂພກ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "16040",
+        "POST_OFFICE": "ປນ. ສຸຂຸມາ",
+        "PROVICE_CODE": "16",
+        "PROVICE": "ແຂວງຈຳປາສັກ",
+        "DISTRICT_CODE": "05",
+        "DISTRICT": "ມ. ສຸຂຸມາ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "16050",
+        "POST_OFFICE": "ປນ. ປະທຸມພອນ",
+        "PROVICE_CODE": "16",
+        "PROVICE": "ແຂວງຈຳປາສັກ",
+        "DISTRICT_CODE": "06",
+        "DISTRICT": "ມ. ປະທຸມພອນ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "16060",
+        "POST_OFFICE": "ປນ. ໂພນທອງ",
+        "PROVICE_CODE": "16",
+        "PROVICE": "ແຂວງຈຳປາສັກ",
+        "DISTRICT_CODE": "07",
+        "DISTRICT": "ມ. ໂພນທອງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "16080",
+        "POST_OFFICE": "ປນ. ປາກຊ່ອງ",
+        "PROVICE_CODE": "16",
+        "PROVICE": "ແຂວງຈຳປາສັກ",
+        "DISTRICT_CODE": "08",
+        "DISTRICT": "ມ. ປາກຊ່ອງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "16090",
+        "POST_OFFICE": "ປນ. ບາຈຽງ",
+        "PROVICE_CODE": "16",
+        "PROVICE": "ແຂວງຈຳປາສັກ",
+        "DISTRICT_CODE": "09",
+        "DISTRICT": "ມ. ບາຈຽງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "16100",
+        "POST_OFFICE": "ປນ. ຂີ້ນາກ",
+        "PROVICE_CODE": "16",
+        "PROVICE": "ແຂວງຈຳປາສັກ",
+        "DISTRICT_CODE": "10",
+        "DISTRICT": "ມ. ໂຂງ"
+    },
 ]
