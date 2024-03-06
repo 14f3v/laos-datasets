@@ -789,4 +789,138 @@
         "DISTRICT_CODE": "09",
         "DISTRICT": "ມ. ທົ່ງມີໄຊ"
     },
+
+
+
+
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "9000",
+        "POST_OFFICE": "ປນ. ແຂວງຊຽງຂວາງ",
+        "PROVICE_CODE": "09",
+        "PROVICE": "ແຂວງຊຽງຂວາງ",
+        "DISTRICT_CODE": "01",
+        "DISTRICT": "ມ. ແປກ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "9010",
+        "POST_OFFICE": "ປນ. ມ ຄຳ",
+        "PROVICE_CODE": "09",
+        "PROVICE": "ແຂວງຊຽງຂວາງ",
+        "DISTRICT_CODE": "02",
+        "DISTRICT": "ມ. ຄຳ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "9020",
+        "POST_OFFICE": "ປນ. ວິທະຍາໄລຄູຄັງໄຂ",
+        "PROVICE_CODE": "09",
+        "PROVICE": "ແຂວງຊຽງຂວາງ",
+        "DISTRICT_CODE": "02",
+        "DISTRICT": "ມ. ຄຳ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "9030",
+        "POST_OFFICE": "ປນ. ມ ຄຸນ",
+        "PROVICE_CODE": "09",
+        "PROVICE": "ແຂວງຊຽງຂວາງ",
+        "DISTRICT_CODE": "03",
+        "DISTRICT": "ມ. ຄຸນ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "9040",
+        "POST_OFFICE": "ປນ. ມ ຫນອງແຮດ",
+        "PROVICE_CODE": "09",
+        "PROVICE": "ແຂວງຊຽງຂວາງ",
+        "DISTRICT_CODE": "04",
+        "DISTRICT": "ມ. ຫນອງແຮດ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "9050",
+        "POST_OFFICE": "ປນ. ມ ຜາໄຊ",
+        "PROVICE_CODE": "09",
+        "PROVICE": "ແຂວງຊຽງຂວາງ",
+        "DISTRICT_CODE": "05",
+        "DISTRICT": "ມ. ຜາໄຊ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "9060",
+        "POST_OFFICE": "ປນ. ນ້ຳຫງຳ",
+        "PROVICE_CODE": "09",
+        "PROVICE": "ແຂວງຊຽງຂວາງ",
+        "DISTRICT_CODE": "01",
+        "DISTRICT": "ມ. ແປກ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "9070",
+        "POST_OFFICE": "ປນ. ເຂດຫນອງເປັດ",
+        "PROVICE_CODE": "09",
+        "PROVICE": "ແຂວງຊຽງຂວາງ",
+        "DISTRICT_CODE": "01",
+        "DISTRICT": "ມ. ແປກ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "9080",
+        "POST_OFFICE": "ປນ. ມ ຫມອກໃຫມ່",
+        "PROVICE_CODE": "09",
+        "PROVICE": "ແຂວງຊຽງຂວາງ",
+        "DISTRICT_CODE": "06",
+        "DISTRICT": "ມ. ຫມອກໃຫມ່"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "9090",
+        "POST_OFFICE": "ປນ. ພູກູດ",
+        "PROVICE_CODE": "09",
+        "PROVICE": "ແຂວງຊຽງຂວາງ",
+        "DISTRICT_CODE": "07",
+        "DISTRICT": "ມ. ພູກູດ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "9100",
+        "POST_OFFICE": "ມ. ທ່າໂທມ",
+        "PROVICE_CODE": "09",
+        "PROVICE": "ແຂວງຊຽງຂວາງ",
+        "DISTRICT_CODE": "08",
+        "DISTRICT": "ມ. ທ່າໂທມ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "9101",
+        "POST_OFFICE": "ປນ. ລ້ອງມັດໃຕ້",
+        "PROVICE_CODE": "09",
+        "PROVICE": "ແຂວງຊຽງຂວາງ",
+        "DISTRICT_CODE": "17.00/2012",
+        "DISTRICT": "ມ. ແປກ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "9130",
+        "POST_OFFICE": "ບ. ສູຍ ມ. ພູກູດ",
+        "PROVICE_CODE": "09",
+        "PROVICE": "175 00/2012",
+        "DISTRICT_CODE": "17.00/2012",
+        "DISTRICT": "ມ. ແປກ"
+    },
 ]
