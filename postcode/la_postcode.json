@@ -290,4 +290,75 @@
         "DISTRICT_CODE": "05",
         "DISTRICT": "ມ. ລອງ"
     },
+
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "4000",
+        "POST_OFFICE": "ປນ. ແຂວງອຸດົມໄຊ",
+        "PROVICE_CODE": "04",
+        "PROVICE": "ແຂວງອຸດົມໄຊ",
+        "DISTRICT_CODE": "01",
+        "DISTRICT": "ມ. ໄຊ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "4010",
+        "POST_OFFICE": "ປນ. ເມືອງຫລາ",
+        "PROVICE_CODE": "04",
+        "PROVICE": "ແຂວງອຸດົມໄຊ",
+        "DISTRICT_CODE": "02",
+        "DISTRICT": "ມ. ຫລາ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "4020",
+        "POST_OFFICE": "ປນ. ຫມໍ້",
+        "PROVICE_CODE": "04",
+        "PROVICE": "ແຂວງອຸດົມໄຊ",
+        "DISTRICT_CODE": "03",
+        "DISTRICT": "ມ. ນາຫມໍ້"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "4030",
+        "POST_OFFICE": "ປນ. ເມືອງງາ(ຈ່າມ)",
+        "PROVICE_CODE": "04",
+        "PROVICE": "ແຂວງອຸດົມໄຊ",
+        "DISTRICT_CODE": "04",
+        "DISTRICT": "ມ. ງາ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "4040",
+        "POST_OFFICE": "ປນ. ແບ່ງ",
+        "PROVICE_CODE": "04",
+        "PROVICE": "ແຂວງອຸດົມໄຊ",
+        "DISTRICT_CODE": "05",
+        "DISTRICT": "ມ. ແບ່ງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "4050",
+        "POST_OFFICE": "ປນ. ຮຸນ",
+        "PROVICE_CODE": "04",
+        "PROVICE": "ແຂວງອຸດົມໄຊ",
+        "DISTRICT_CODE": "06",
+        "DISTRICT": "ມ. ຮຸນ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "4060",
+        "POST_OFFICE": "ປນ. ປາກແບ່ງ",
+        "PROVICE_CODE": "04",
+        "PROVICE": "ແຂວງອຸດົມໄຊ",
+        "DISTRICT_CODE": "07",
+        "DISTRICT": "ມ. ປາກແບ່ງ"
+    },
 ]
