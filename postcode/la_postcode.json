@@ -422,4 +422,165 @@
         "DISTRICT_CODE": "06",
         "DISTRICT": "ເຂດພັດທະນານ້ຳຍູ້"
     },
+
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "6000",
+        "POST_OFFICE": "ປນ. ແຂວງຫລວງພະບາງ",
+        "PROVICE_CODE": "06",
+        "PROVICE": "ແຂວງຫລວງພະບາງ",
+        "DISTRICT_CODE": "01",
+        "DISTRICT": "ມ. ຫລວງພະບາງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "6010",
+        "POST_OFFICE": "ປນ. ມ ຊຽງເງິນ",
+        "PROVICE_CODE": "06",
+        "PROVICE": "ແຂວງຫລວງພະບາງ",
+        "DISTRICT_CODE": "02",
+        "DISTRICT": "ມ. ຊຽງເງິນ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "6020",
+        "POST_OFFICE": "ປນ. ມ ນາມ",
+        "PROVICE_CODE": "06",
+        "PROVICE": "ແຂວງຫລວງພະບາງ",
+        "DISTRICT_CODE": "03",
+        "DISTRICT": "ມ. ນາມ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "6030",
+        "POST_OFFICE": "ປນ. ມ ປາກອູ",
+        "PROVICE_CODE": "06",
+        "PROVICE": "ແຂວງຫລວງພະບາງ",
+        "DISTRICT_CODE": "04",
+        "DISTRICT": "ມ. ປາກອູ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "6040",
+        "POST_OFFICE": "ປນ. ມ ນ້ຳບາກ",
+        "PROVICE_CODE": "06",
+        "PROVICE": "ແຂວງຫລວງພະບາງ",
+        "DISTRICT_CODE": "05",
+        "DISTRICT": "ມ. ນ້ຳບາກ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "6050",
+        "POST_OFFICE": "ປນ. ມ ງອຍ",
+        "PROVICE_CODE": "06",
+        "PROVICE": "ແຂວງຫລວງພະບາງ",
+        "DISTRICT_CODE": "06",
+        "DISTRICT": "ມ. ງອຍ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "6060",
+        "POST_OFFICE": "ປນ. ມ ປາກແຊງ",
+        "PROVICE_CODE": "06",
+        "PROVICE": "ແຂວງຫລວງພະບາງ",
+        "DISTRICT_CODE": "07",
+        "DISTRICT": "ມ. ປາກແຊງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "6070",
+        "POST_OFFICE": "ປນ. ມ ໂພນໄຊ",
+        "PROVICE_CODE": "06",
+        "PROVICE": "ແຂວງຫລວງພະບາງ",
+        "DISTRICT_CODE": "08",
+        "DISTRICT": "ມ. ໂພນໄຊ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "6080",
+        "POST_OFFICE": "ປນ. ບ້ານມ ຂາມ",
+        "PROVICE_CODE": "06",
+        "PROVICE": "ແຂວງຫລວງພະບາງ",
+        "DISTRICT_CODE": "08",
+        "DISTRICT": "ມ. ໂພນໄຊ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "6090",
+        "POST_OFFICE": "ປນ. ມ ວຽງຄຳ",
+        "PROVICE_CODE": "06",
+        "PROVICE": "ແຂວງຫລວງພະບາງ",
+        "DISTRICT_CODE": "09",
+        "DISTRICT": "ມ. ວຽງຄຳ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "6100",
+        "POST_OFFICE": "ປນ. ມ ພູຄຸນ",
+        "PROVICE_CODE": "06",
+        "PROVICE": "ແຂວງຫລວງພະບາງ",
+        "DISTRICT_CODE": "10",
+        "DISTRICT": "ມ. ພູຄຸນ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "6110",
+        "POST_OFFICE": "ປນ. ມ ຈອມເພັດ",
+        "PROVICE_CODE": "06",
+        "PROVICE": "ແຂວງຫລວງພະບາງ",
+        "DISTRICT_CODE": "11",
+        "DISTRICT": "ມ. ຈອມເພັດ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "6130",
+        "POST_OFFICE": "ປນ. ກິວກະຈຳ",
+        "PROVICE_CODE": "06",
+        "PROVICE": "ແຂວງຫລວງພະບາງ",
+        "DISTRICT_CODE": "11",
+        "DISTRICT": "ມ. ຈອມເພັດ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "6140",
+        "POST_OFFICE": "ປນ. ເຂດນ້ຳຖ້ວມ",
+        "PROVICE_CODE": "06",
+        "PROVICE": "ແຂວງຫລວງພະບາງ",
+        "DISTRICT_CODE": "11",
+        "DISTRICT": "ມ. ຈອມເພັດ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "6150",
+        "POST_OFFICE": "ປນ. ວິທະຍາໄລຄູ",
+        "PROVICE_CODE": "06",
+        "PROVICE": "ແຂວງຫລວງພະບາງ",
+        "DISTRICT_CODE": "11",
+        "DISTRICT": "ມ. ຈອມເພັດ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "6160",
+        "POST_OFFICE": "ວິທະຍາສຸພານຸວົງ",
+        "PROVICE_CODE": "06",
+        "PROVICE": "ແຂວງຫລວງພະບາງ",
+        "DISTRICT_CODE": "11",
+        "DISTRICT": "ມ. ຈອມເພັດ"
+    },
 ]
