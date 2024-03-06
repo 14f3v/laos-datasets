@@ -1311,4 +1311,179 @@
         "DISTRICT_CODE": "09",
         "DISTRICT": "ມ. ໄຊບົວທອງ"
     },
+
+
+
+
+
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "13000",
+        "POST_OFFICE": "ປນ. ແຂວງສະຫວັນນະເຂດ",
+        "PROVICE_CODE": "13",
+        "PROVICE": "ແຂວງສະຫວັນນະເຂດ",
+        "DISTRICT_CODE": "01",
+        "DISTRICT": "ມ. ໄກສອນພົມວິຫານ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "13020",
+        "POST_OFFICE": "ປນ. ອຸທຸມພອນ",
+        "PROVICE_CODE": "13",
+        "PROVICE": "ແຂວງສະຫວັນນະເຂດ",
+        "DISTRICT_CODE": "02",
+        "DISTRICT": "ມ. ອຸທຸມພອນ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "13030",
+        "POST_OFFICE": "ປນ. ອາດສະພັງທອງ",
+        "PROVICE_CODE": "13",
+        "PROVICE": "ແຂວງສະຫວັນນະເຂດ",
+        "DISTRICT_CODE": "03",
+        "DISTRICT": "ມ. ອາດສະພັງທອງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "13040",
+        "POST_OFFICE": "ປນ. ເມືອງພິນ",
+        "PROVICE_CODE": "13",
+        "PROVICE": "ແຂວງສະຫວັນນະເຂດ",
+        "DISTRICT_CODE": "04",
+        "DISTRICT": "ມ. ເມືອງພິນ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "13050",
+        "POST_OFFICE": "ປນ. ເຊໂປນ",
+        "PROVICE_CODE": "13",
+        "PROVICE": "ແຂວງສະຫວັນນະເຂດ",
+        "DISTRICT_CODE": "05",
+        "DISTRICT": "ມ. ເຊໂປນ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "13060",
+        "POST_OFFICE": "ປນ. ຈຳພອນ",
+        "PROVICE_CODE": "13",
+        "PROVICE": "ແຂວງສະຫວັນນະເຂດ",
+        "DISTRICT_CODE": "06",
+        "DISTRICT": "ມ. ຈຳພອນ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "13070",
+        "POST_OFFICE": "ປນ. ສອງຄອນ",
+        "PROVICE_CODE": "13",
+        "PROVICE": "ແຂວງສະຫວັນນະເຂດ",
+        "DISTRICT_CODE": "07",
+        "DISTRICT": "ມ. ສອງຄອນ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "13090",
+        "POST_OFFICE": "ປນ. ວິລະບູລີ",
+        "PROVICE_CODE": "13",
+        "PROVICE": "ແຂວງສະຫວັນນະເຂດ",
+        "DISTRICT_CODE": "08",
+        "DISTRICT": "ມ. ວິລະບູລີ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "13100",
+        "POST_OFFICE": "ປນ. ທ່າປາງທອງ",
+        "PROVICE_CODE": "13",
+        "PROVICE": "ແຂວງສະຫວັນນະເຂດ",
+        "DISTRICT_CODE": "09",
+        "DISTRICT": "ມ. ທ່າປາງທອງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "13110",
+        "POST_OFFICE": "ປນ. ຊົນບູລີ",
+        "PROVICE_CODE": "13",
+        "PROVICE": "ແຂວງສະຫວັນນະເຂດ",
+        "DISTRICT_CODE": "10",
+        "DISTRICT": "ມ. ຊົນບູລີ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "13120",
+        "POST_OFFICE": "ມ. ໄຊບູລີ",
+        "PROVICE_CODE": "13",
+        "PROVICE": "ແຂວງສະຫວັນນະເຂດ",
+        "DISTRICT_CODE": "11",
+        "DISTRICT": "ມ. ໄຊບູລີ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "13130",
+        "POST_OFFICE": "ມ. ນອງ",
+        "PROVICE_CODE": "13",
+        "PROVICE": "ແຂວງສະຫວັນນະເຂດ",
+        "DISTRICT_CODE": "12",
+        "DISTRICT": "ມ. ນອງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "13140",
+        "POST_OFFICE": "ມະຫາວິທະຍາໄລ ແຂວງສະຫວັນນະເຂດ",
+        "PROVICE_CODE": "13",
+        "PROVICE": "ແຂວງສະຫວັນນະເຂດ",
+        "DISTRICT_CODE": "12",
+        "DISTRICT": "ມ. ນອງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "13150",
+        "POST_OFFICE": "ປນ. ອາດສະພອນ",
+        "PROVICE_CODE": "13",
+        "PROVICE": "ແຂວງສະຫວັນນະເຂດ",
+        "DISTRICT_CODE": "13",
+        "DISTRICT": "ມ. ອາດສະພອນ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "13160",
+        "POST_OFFICE": "ປນ. ໄຊພູທອງ",
+        "PROVICE_CODE": "13",
+        "PROVICE": "ແຂວງສະຫວັນນະເຂດ",
+        "DISTRICT_CODE": "14",
+        "DISTRICT": "ມ. ໄຊພູທອງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "13170",
+        "POST_OFFICE": "ປນ. ພະລານໄຊ",
+        "PROVICE_CODE": "13",
+        "PROVICE": "ແຂວງສະຫວັນນະເຂດ",
+        "DISTRICT_CODE": "15",
+        "DISTRICT": "ມ. ທ່າພະລານໄຊ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "13180",
+        "POST_OFFICE": "ປນ. ອຸດົມວິໄລ",
+        "PROVICE_CODE": "13",
+        "PROVICE": "ແຂວງສະຫວັນນະເຂດ",
+        "DISTRICT_CODE": "15",
+        "DISTRICT": "ມ. ທ່າພະລານໄຊ"
+    },
 ]
