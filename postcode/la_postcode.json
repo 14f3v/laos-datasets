@@ -158,5 +158,75 @@
         "PROVICE": "ນະຄອນຫລວງວຽງຈັນ",
         "DISTRICT_CODE": "09",
         "DISTRICT": "ມ. ປາກງື່ມ"
-    }
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "02000",
+        "POST_OFFICE": "ປນ. ແຂວງຜົ້ງສາລີ",
+        "PROVICE_CODE": "02",
+        "PROVICE": "ແຂວງຜົ້ງສາລີ",
+        "DISTRICT_CODE": "01",
+        "DISTRICT": "ມ. ຜົ້ງສາລີ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "02010",
+        "POST_OFFICE": "ປນ. ເມືອງຂວາ",
+        "PROVICE_CODE": "02",
+        "PROVICE": "ແຂວງຜົ້ງສາລີ",
+        "DISTRICT_CODE": "02",
+        "DISTRICT": "ມ. ຂວາ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "02020",
+        "POST_OFFICE": "ມ. ສຳພັນ",
+        "PROVICE_CODE": "02",
+        "PROVICE": "ແຂວງຜົ້ງສາລີ",
+        "DISTRICT_CODE": "03",
+        "DISTRICT": "ມ. ສຳພັນ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "02030",
+        "POST_OFFICE": "ມ. ໃຫມ່",
+        "PROVICE_CODE": "02",
+        "PROVICE": "ແຂວງຜົ້ງສາລີ",
+        "DISTRICT_CODE": "04",
+        "DISTRICT": "ມ. ໃຫມ່"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "02040",
+        "POST_OFFICE": "ມ. ບຸນເຫນືອ",
+        "PROVICE_CODE": "02",
+        "PROVICE": "ແຂວງຜົ້ງສາລີ",
+        "DISTRICT_CODE": "05",
+        "DISTRICT": "ມ. ບຸນເຫນືອ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "02050",
+        "POST_OFFICE": "ມ. ບຸນໄຕ້",
+        "PROVICE_CODE": "02",
+        "PROVICE": "ແຂວງຜົ້ງສາລີ",
+        "DISTRICT_CODE": "06",
+        "DISTRICT": "ມ. ບຸນໄຕ້"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "02060",
+        "POST_OFFICE": "ມ. ຍອດອຸ",
+        "PROVICE_CODE": "02",
+        "PROVICE": "ແຂວງຜົ້ງສາລີ",
+        "DISTRICT_CODE": "07",
+        "DISTRICT": "ມ. ຍອດອຸ"
+    },
 ]
