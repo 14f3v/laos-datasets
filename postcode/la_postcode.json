@@ -583,4 +583,85 @@
         "DISTRICT_CODE": "11",
         "DISTRICT": "ມ. ຈອມເພັດ"
     },
+
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "7000",
+        "POST_OFFICE": "ປນ. ແຂວງຫົວພັນ",
+        "PROVICE_CODE": "07",
+        "PROVICE": "ແຂວງຫົວພັນ",
+        "DISTRICT_CODE": "01",
+        "DISTRICT": "ມ. ຊຳເຫນືອ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "7010",
+        "POST_OFFICE": "ປນ. ມ ຊຽງຄໍ້",
+        "PROVICE_CODE": "07",
+        "PROVICE": "ແຂວງຫົວພັນ",
+        "DISTRICT_CODE": "02",
+        "DISTRICT": "ມ. ຊຽງຄໍ້"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "7020",
+        "POST_OFFICE": "ປນ. ມ ວຽງທອງ",
+        "PROVICE_CODE": "07",
+        "PROVICE": "ແຂວງຫົວພັນ",
+        "DISTRICT_CODE": "03",
+        "DISTRICT": "ມ. ວຽງທອງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "7030",
+        "POST_OFFICE": "ປນ. ມ ວຽງໄຊ",
+        "PROVICE_CODE": "07",
+        "PROVICE": "ແຂວງຫົວພັນ",
+        "DISTRICT_CODE": "04",
+        "DISTRICT": "ມ. ວຽງໄຊ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "7040",
+        "POST_OFFICE": "ມ. ຫົວເມືອງ",
+        "PROVICE_CODE": "07",
+        "PROVICE": "ແຂວງຫົວພັນ",
+        "DISTRICT_CODE": "05",
+        "DISTRICT": "ມ. ຫົວເມືອງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "7050",
+        "POST_OFFICE": "ປນ. ມ ຊຳໄຕ້",
+        "PROVICE_CODE": "07",
+        "PROVICE": "ແຂວງຫົວພັນ",
+        "DISTRICT_CODE": "06",
+        "DISTRICT": "ມ. ຊຳໄຕ້"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "7060",
+        "POST_OFFICE": "ມ. ແອດ",
+        "PROVICE_CODE": "07",
+        "PROVICE": "ແຂວງຫົວພັນ",
+        "DISTRICT_CODE": "07",
+        "DISTRICT": "ມ. ແອດ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "7070",
+        "POST_OFFICE": "ປນ. ສົບເບົາ",
+        "PROVICE_CODE": "07",
+        "PROVICE": "ແຂວງຫົວພັນ",
+        "DISTRICT_CODE": "08",
+        "DISTRICT": "ມ. ສົບເບົາ"
+    },
 ]
