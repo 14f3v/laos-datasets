@@ -1724,4 +1724,59 @@
         "DISTRICT_CODE": "10",
         "DISTRICT": "ມ. ໂຂງ"
     },
+
+
+
+
+
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "17000",
+        "POST_OFFICE": "ປນ. ແຂວງອັດຕະປື",
+        "PROVICE_CODE": "17",
+        "PROVICE": "ແຂວງອັດຕະປື",
+        "DISTRICT_CODE": "01",
+        "DISTRICT": "ມ. ໄຊເສດຖາ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "17010",
+        "POST_OFFICE": "ປນ. ມ ໄຊເສດຖາ",
+        "PROVICE_CODE": "17",
+        "PROVICE": "ແຂວງອັດຕະປື",
+        "DISTRICT_CODE": "02",
+        "DISTRICT": "ມ. ສາມະຄີໄຊ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "17020",
+        "POST_OFFICE": "ປນ. ສະຫນາມໄຊ",
+        "PROVICE_CODE": "17",
+        "PROVICE": "ແຂວງອັດຕະປື",
+        "DISTRICT_CODE": "03",
+        "DISTRICT": "ມ. ສະຫນາມໄຊ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "17030",
+        "POST_OFFICE": "ມ. ພູວົງ",
+        "PROVICE_CODE": "17",
+        "PROVICE": "ແຂວງອັດຕະປື",
+        "DISTRICT_CODE": "04",
+        "DISTRICT": "ມ. ພູວົງ"
+    },
+    {
+        "COUNTRY_CODE": "01",
+        "COUNTRY": "LA",
+        "POST_CODE": "17040",
+        "POST_OFFICE": "ປນ. ສານໄຊ",
+        "PROVICE_CODE": "17",
+        "PROVICE": "ແຂວງອັດຕະປື",
+        "DISTRICT_CODE": "05",
+        "DISTRICT": "ມ. ສານໄຊ"
+    }
 ]
