@@ -796,7 +796,7 @@
     {
         "COUNTRY_CODE": "01",
         "COUNTRY": "LA",
-        "POST_CODE": "9000",
+        "POST_CODE": "09000",
         "POST_OFFICE": "ປນ. ແຂວງຊຽງຂວາງ",
         "PROVICE_CODE": "09",
         "PROVICE": "ແຂວງຊຽງຂວາງ",
@@ -806,7 +806,7 @@
     {
         "COUNTRY_CODE": "01",
         "COUNTRY": "LA",
-        "POST_CODE": "9010",
+        "POST_CODE": "09010",
         "POST_OFFICE": "ປນ. ມ ຄຳ",
         "PROVICE_CODE": "09",
         "PROVICE": "ແຂວງຊຽງຂວາງ",
@@ -816,7 +816,7 @@
     {
         "COUNTRY_CODE": "01",
         "COUNTRY": "LA",
-        "POST_CODE": "9020",
+        "POST_CODE": "09020",
         "POST_OFFICE": "ປນ. ວິທະຍາໄລຄູຄັງໄຂ",
         "PROVICE_CODE": "09",
         "PROVICE": "ແຂວງຊຽງຂວາງ",
@@ -826,7 +826,7 @@
     {
         "COUNTRY_CODE": "01",
         "COUNTRY": "LA",
-        "POST_CODE": "9030",
+        "POST_CODE": "09030",
         "POST_OFFICE": "ປນ. ມ ຄຸນ",
         "PROVICE_CODE": "09",
         "PROVICE": "ແຂວງຊຽງຂວາງ",
@@ -836,7 +836,7 @@
     {
         "COUNTRY_CODE": "01",
         "COUNTRY": "LA",
-        "POST_CODE": "9040",
+        "POST_CODE": "09040",
         "POST_OFFICE": "ປນ. ມ ຫນອງແຮດ",
         "PROVICE_CODE": "09",
         "PROVICE": "ແຂວງຊຽງຂວາງ",
@@ -846,7 +846,7 @@
     {
         "COUNTRY_CODE": "01",
         "COUNTRY": "LA",
-        "POST_CODE": "9050",
+        "POST_CODE": "09050",
         "POST_OFFICE": "ປນ. ມ ຜາໄຊ",
         "PROVICE_CODE": "09",
         "PROVICE": "ແຂວງຊຽງຂວາງ",
@@ -856,7 +856,7 @@
     {
         "COUNTRY_CODE": "01",
         "COUNTRY": "LA",
-        "POST_CODE": "9060",
+        "POST_CODE": "09060",
         "POST_OFFICE": "ປນ. ນ້ຳຫງຳ",
         "PROVICE_CODE": "09",
         "PROVICE": "ແຂວງຊຽງຂວາງ",
@@ -866,7 +866,7 @@
     {
         "COUNTRY_CODE": "01",
         "COUNTRY": "LA",
-        "POST_CODE": "9070",
+        "POST_CODE": "09070",
         "POST_OFFICE": "ປນ. ເຂດຫນອງເປັດ",
         "PROVICE_CODE": "09",
         "PROVICE": "ແຂວງຊຽງຂວາງ",
@@ -876,7 +876,7 @@
     {
         "COUNTRY_CODE": "01",
         "COUNTRY": "LA",
-        "POST_CODE": "9080",
+        "POST_CODE": "09080",
         "POST_OFFICE": "ປນ. ມ ຫມອກໃຫມ່",
         "PROVICE_CODE": "09",
         "PROVICE": "ແຂວງຊຽງຂວາງ",
@@ -886,7 +886,7 @@
     {
         "COUNTRY_CODE": "01",
         "COUNTRY": "LA",
-        "POST_CODE": "9090",
+        "POST_CODE": "09090",
         "POST_OFFICE": "ປນ. ພູກູດ",
         "PROVICE_CODE": "09",
         "PROVICE": "ແຂວງຊຽງຂວາງ",
@@ -896,7 +896,7 @@
     {
         "COUNTRY_CODE": "01",
         "COUNTRY": "LA",
-        "POST_CODE": "9100",
+        "POST_CODE": "09100",
         "POST_OFFICE": "ມ. ທ່າໂທມ",
         "PROVICE_CODE": "09",
         "PROVICE": "ແຂວງຊຽງຂວາງ",
@@ -906,7 +906,7 @@
     {
         "COUNTRY_CODE": "01",
         "COUNTRY": "LA",
-        "POST_CODE": "9101",
+        "POST_CODE": "09101",
         "POST_OFFICE": "ປນ. ລ້ອງມັດໃຕ້",
         "PROVICE_CODE": "09",
         "PROVICE": "ແຂວງຊຽງຂວາງ",
@@ -916,7 +916,7 @@
     {
         "COUNTRY_CODE": "01",
         "COUNTRY": "LA",
-        "POST_CODE": "9130",
+        "POST_CODE": "09130",
         "POST_OFFICE": "ບ. ສູຍ ມ. ພູກູດ",
         "PROVICE_CODE": "09",
         "PROVICE": "175 00/2012",
